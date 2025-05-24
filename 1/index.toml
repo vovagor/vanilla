@@ -56,11 +56,6 @@ hash = "c50696cd98b02ba03425574c7850443f5cba8e097af4b6ae1c8b42bd5316a8eb"
 metafile = true
 
 [[files]]
-file = "mods/calcmod.pw.toml"
-hash = "77c88fc2f3c4d3a17c329e83ac40ea091410fa1f0b5ba5d812beb8e9c30e26cb"
-metafile = true
-
-[[files]]
 file = "mods/cameraoverhaul.pw.toml"
 hash = "368a60e5e56b44694cb84d0bc50e8f3385e73688b0b91ec21b195231b2ff7984"
 metafile = true
@@ -258,11 +253,6 @@ metafile = true
 [[files]]
 file = "mods/first-person-model.pw.toml"
 hash = "576d9dabf7382e3185e448d46716ab53b58aa33e0d202d10927665be646c798a"
-metafile = true
-
-[[files]]
-file = "mods/flashback.pw.toml"
-hash = "ea105b7b441c7f7e50f0a6434252da54b3b8fd4f6ed88f4bb0f086d33f73d339"
 metafile = true
 
 [[files]]
