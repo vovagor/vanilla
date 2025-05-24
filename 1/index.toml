@@ -502,7 +502,7 @@ metafile = true
 
 [[files]]
 file = "mods/physmod.pw.toml"
-hash = "88e73ce6cc05d078f91993c2600ac5cc56cfa9d199655f3e054b14e63ed33568"
+hash = "44f4e0961b48da415603766a1d074fc39d430ec44b33fb306131792641ea0c08"
 metafile = true
 
 [[files]]
