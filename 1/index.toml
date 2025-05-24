@@ -641,11 +641,6 @@ hash = "484c5a3ad971fe515de8210733ce493927d4b28faa62a65a0255c1e82b3ea303"
 metafile = true
 
 [[files]]
-file = "mods/universal_ores.pw.toml"
-hash = "a423853e756d6927d302924d48a30d8decce24803b1a68d22372bc84fbad9697"
-metafile = true
-
-[[files]]
 file = "mods/visual-workbench.pw.toml"
 hash = "fcc4e00f37493f6292af7fbef7be6ea27e1a0cb4185d010e17db67e4ac61da15"
 metafile = true
