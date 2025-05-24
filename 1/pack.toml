@@ -1,0 +1,16 @@
+name = "bober-vanilla+"
+author = "goger"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "8bbb1153f8b78c9a9efedc97138b99b2628c40b73eeea2371af4460772986863"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.172"
+
+[options]
+acceptable-game-versions = ["neoforge"]

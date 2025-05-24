@@ -1,0 +1,13 @@
+name = "Voiceless Survival"
+filename = "ezvcsurvival-neoforge-1.21.1-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/JJ3q7W2X/versions/SE9Atxuh/ezvcsurvival-neoforge-1.21.1-1.0.0.jar"
+hash-format = "sha512"
+hash = "a55d75a1eb4cafa6f14864762ce8068f28466f81453505e11e8ff1557fe34d719561f47e99177fed116d36351991617be652a7aaea9ac97d083531c7910766e6"
+
+[update]
+[update.modrinth]
+mod-id = "JJ3q7W2X"
+version = "SE9Atxuh"
