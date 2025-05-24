@@ -1,7 +1,7 @@
-name = "physics-mod"
+name = "physmod"
 filename = "download"
 
 [download]
 url = "https://drive.usercontent.google.com/download?id=1iPiZ71tziK_gjBjhMJw2t4X_qlwO1sxz"
 hash-format = "sha256"
-hash = "fe6bb99a3ed5350818bbbbb7ca31f694a63cad1922eb1bb28310bba5ce202420"
+hash = "44f4e0961b48da415603766a1d074fc39d430ec44b33fb306131792641ea0c08"
