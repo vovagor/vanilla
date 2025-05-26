@@ -266,11 +266,6 @@ hash = "576d9dabf7382e3185e448d46716ab53b58aa33e0d202d10927665be646c798a"
 metafile = true
 
 [[files]]
-file = "mods/flashback.pw.toml"
-hash = "ea105b7b441c7f7e50f0a6434252da54b3b8fd4f6ed88f4bb0f086d33f73d339"
-metafile = true
-
-[[files]]
 file = "mods/fog.pw.toml"
 hash = "2154e3980c3701985223d695640eabab57b5fbb26fe23d8892a2e63c6cb43f87"
 metafile = true
@@ -306,8 +301,8 @@ hash = "2ae51f2cd1ba919930db04fb82afb36c05ab3cd7826be5956d28c9d5d1238231"
 metafile = true
 
 [[files]]
-file = "mods/hold-my-items.pw.toml"
-hash = "d82a9b3f9ba777fcfa871322fcc168745c28f9a8ea18032e4ed6f0a3d3d9c32a"
+file = "mods/hold-my-items-refoxed.pw.toml"
+hash = "4343aeacf9404c6eb59da55e43507e01f1607ac51dc385c8fad40fc9b3ce4894"
 metafile = true
 
 [[files]]
