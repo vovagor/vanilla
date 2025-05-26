@@ -1,0 +1,13 @@
+name = "Consistent Compass"
+filename = "Consistent Compass.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/2I3wdYsN/versions/aUZZVwJm/Consistent%20Compass.zip"
+hash-format = "sha512"
+hash = "1d0d7e24409ec631b9f7371f3b3c6f94895ab1bd83fae9a23ca42e5636bbcf67d6597d2c405ef9141b9ad85e1cfca0602bd27036f02d04faefeb5f197dec3b01"
+
+[update]
+[update.modrinth]
+mod-id = "2I3wdYsN"
+version = "aUZZVwJm"

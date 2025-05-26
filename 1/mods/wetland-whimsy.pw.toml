@@ -1,0 +1,13 @@
+name = "Wetland Whimsy"
+filename = "wetland_whimsy-1.2.1-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/PsS0ZPEe/versions/H1ZXg9zE/wetland_whimsy-1.2.1-1.21.1.jar"
+hash-format = "sha512"
+hash = "7f45deb2ae667f93b2f9b19e21c5ef9bd34e1be7df5456867c39dfa320fabedac13d25a75b4df8c06a05c6ef1d080fc04668243143d25303296dad62c7890729"
+
+[update]
+[update.modrinth]
+mod-id = "PsS0ZPEe"
+version = "H1ZXg9zE"
