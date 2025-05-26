@@ -1,0 +1,7 @@
+name = "physics-mod"
+filename = "physics-mod-pro-v172b-neoforge-1.21.1.jar"
+
+[download]
+url = "https://ru-minecraft.ru/download/files/physics-mod-pro-v172b-neoforge-1.21.1.jar"
+hash-format = "sha256"
+hash = "35e30e79d94d08c72173a3be0233d0bf2e86c8f09c9d3dc224a051d488f63205"

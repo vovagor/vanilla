@@ -187,7 +187,7 @@ metafile = true
 
 [[files]]
 file = "mods/creeper-overhaul.pw.toml"
-hash = "f0e99d5c3df1dd230b70c72f2786c76131e5ef6246ff6773326ccb8c2712351c"
+hash = "cd4c4ec6ef26d2b61e0cb0bdd398e8d528b88ebf739fc0898bc8cb2f7a88debb"
 metafile = true
 
 [[files]]
@@ -571,8 +571,8 @@ hash = "b11c3e96802d7f7642a49281a65056b73017f770fccc6c048f46e158684e636d"
 metafile = true
 
 [[files]]
-file = "mods/physmod.pw.toml"
-hash = "17bf1d8d1f639d046ab6118e5b116d0f172a12a493273bf051ca5d200acb9256"
+file = "mods/physics-mod.pw.toml"
+hash = "2f79ac49b7df31e5fd06e0757f45318c1030b4eddc630081195c2e6ecec18177"
 metafile = true
 
 [[files]]
@@ -746,11 +746,6 @@ hash = "babe59e1cd6cf31b2ba92112b17cb2dd7de1d7fd6526746df71e174be545dbbe"
 metafile = true
 
 [[files]]
-file = "mods/vanilla-refresh.pw.toml"
-hash = "bd0f1f9afa9c208d68fd972d974d515609f2cda6343d6d0efcb0a7fb9045ea72"
-metafile = true
-
-[[files]]
 file = "mods/visual-workbench.pw.toml"
 hash = "45393fd800ee33380cb8242559ebfc2fb0a0ee625130c33e18419a3df1ae50fe"
 metafile = true
@@ -773,11 +768,6 @@ metafile = true
 [[files]]
 file = "mods/watermedia.pw.toml"
 hash = "9653965ba6ca1b879318198c2282a7a7bb53709bc4d5b54ab18dca99f44b4f10"
-metafile = true
-
-[[files]]
-file = "mods/weather-storms-tornadoes.pw.toml"
-hash = "1cdd69240ef1bd97b6d6d621e2514e1d2cbe65b27b42a2a491fdefddb1f34b81"
 metafile = true
 
 [[files]]
