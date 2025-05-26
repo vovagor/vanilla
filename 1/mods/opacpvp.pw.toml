@@ -4,8 +4,8 @@ side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/xcparckV/versions/6AhVNkOg/opacpvp-neoforge-1.0.1-1.21.1.jar"
-hash-format = "sha512"
-hash = "e32f2db3ecc7f89ec9b76133dcc15dfab97bc3964ffc0a63f745521b85f5660c22a03dae7d495e85286b3efd156be07f476ca7faa9d2f5cf0af8343ffc5301d5"
+hash-format = "sha256"
+hash = "fd6ec772b6ee9489236bce258c4659eac4897c0235983b4f16fcc229380658a6"
 
 [update]
 [update.modrinth]

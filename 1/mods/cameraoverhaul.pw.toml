@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/m0oRwcZx/versions/TcRjh7IY/CameraOverhaul-v2.0.4-neoforge%2Bmc%5B1.21.0-1.21.1%5D.jar"
-hash-format = "sha512"
-hash = "244b09ab93e220daddea9014a527177c6afab84ba045029daf1c80f81800c84f326cc545868683a317ffb311a1a3f9df146f171b29cee3b37dd727a6fc571472"
+hash-format = "sha256"
+hash = "4a675e142836d9a98f9cc619da832602864f9a4bc8b4c4f8e22f6501d6782af3"
 
 [update]
 [update.modrinth]

@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/eE2Db4YU/versions/Cfw5l8OG/immersive_armors-1.7.0%2B1.21.1-neoforge.jar"
-hash-format = "sha512"
-hash = "b598bfc50b89539515d0a9b2c8865b4ca4dae0f34cefe6985abfb55f571dc35af4f2b6af4054a7a1464c31953222753fb3bca836855acff8e7c386b02a0f27cd"
+hash-format = "sha256"
+hash = "ed75c81c1476ed95c7998995b8ab84c87a8f3c5423e0b6a671581d85a4c5f209"
 
 [update]
 [update.modrinth]

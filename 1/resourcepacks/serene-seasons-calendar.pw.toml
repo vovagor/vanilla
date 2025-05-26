@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/cRhZvv2M/versions/2JHm3rpp/SereneSeasons-1.21.zip"
-hash-format = "sha512"
-hash = "e19c278a29e6b4964171905baca0c5f465fc96e963956bf00d0a9ae3002a262b44c2d5e768020d979b58834122c289db73c9c2f70969a31acb2fbf1d10d6b511"
+hash-format = "sha256"
+hash = "68bdcda93e20c5f5f6816ce0bb800c69c91e7ad9abd3bcbd8b5794d2b5efcce1"
 
 [update]
 [update.modrinth]

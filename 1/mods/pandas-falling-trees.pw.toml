@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/i2kUe4lq/versions/vIuY3l6l/fallingtrees-neoforge-mc1.21-0.13.2-SNAPSHOT.jar"
-hash-format = "sha512"
-hash = "497c841e7edc540df51f3756ed4918a907ce44ce61b3e3413d88470f918c1c1332089bbab9a6b69ad8823b20fd645093265aa6577ca39fc421d8dc7af5f28028"
+hash-format = "sha256"
+hash = "2e453df21788a77c0ab656d4674f5795bd6c730da8e2b95bc7c701742c7872ce"
 
 [update]
 [update.modrinth]

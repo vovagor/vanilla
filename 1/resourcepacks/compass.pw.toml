@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/2I3wdYsN/versions/aUZZVwJm/Consistent%20Compass.zip"
-hash-format = "sha512"
-hash = "1d0d7e24409ec631b9f7371f3b3c6f94895ab1bd83fae9a23ca42e5636bbcf67d6597d2c405ef9141b9ad85e1cfca0602bd27036f02d04faefeb5f197dec3b01"
+hash-format = "sha256"
+hash = "f1305ce474ecb15db3d6ea3c9cf08168144da578d16fd13274b76c6d6d16ceb6"
 
 [update]
 [update.modrinth]

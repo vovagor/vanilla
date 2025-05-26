@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/izkDUlrJ/versions/eFS4Xnze/accessories_cclayer-9.3.1-beta.27%2B1.21.1-neoforge.jar"
-hash-format = "sha512"
-hash = "12f8e08330ccd5392117efbd24d133f948a009d138131aa4cc4fb25ab1093da8546f110b017047e232f8432ac318b9d077dcad2be9ad128dc24c6944bd93ac79"
+hash-format = "sha256"
+hash = "8e8111731d7ee7dcc9e6527698072097c3983c0c7c3a111eb586522ee941f865"
 
 [update]
 [update.modrinth]

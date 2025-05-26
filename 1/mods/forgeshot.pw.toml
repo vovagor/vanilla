@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/3j0bB3uL/versions/8jisLNKN/forgeshot-neoforge-1.21.1-2.0.jar"
-hash-format = "sha512"
-hash = "0575e28b90d80ff7dc935a38f19f1df14f2d91b5231ee09852497fa2f8453ef93796d0100c4b1c253796e01676b169051500716df48e19c655f1a43e23438fad"
+hash-format = "sha256"
+hash = "b5d690d36a0bab751f67fe5cc0e5bb071e287d166e7cbf2124d2c094681f5374"
 
 [update]
 [update.modrinth]

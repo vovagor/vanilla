@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/KjL0jE2w/versions/EcsmczyS/EnhancedVisuals_NEOFORGE_v1.8.19_mc1.21.1.jar"
-hash-format = "sha512"
-hash = "c466e3c7019460e43854e4ecde09b22253e683b4c75233912d1f7d6e0434f7f746a9086c8721a67c0339d727cf313e3b9077dfaa5c4b984fa6e11e2b3f12fa44"
+hash-format = "sha256"
+hash = "0880bfce6c5ccb653f7fb346d34e45c3b5ad629aae79a792f17cafd0d33bf713"
 
 [update]
 [update.modrinth]

@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/yM94ont6/versions/h7H3wELi/notenoughcrashes-neoforge-4.4.8%2B1.21.1.jar"
-hash-format = "sha512"
-hash = "393f6003365c32f15e757b6836cac018327d249067b662683a7a26608da90408ac8cf15d4f047e53a98bb2d4d4783bb72a9c65d4c520f30410411bc77552357d"
+hash-format = "sha256"
+hash = "ce358c9cfc0ded915f9c27d0bda1a6d81af7defaa70f93dd212442aed26c8a7e"
 
 [update]
 [update.modrinth]

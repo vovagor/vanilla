@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/ZcR9weSm/versions/j86Sf3h1/dynamiccrosshair-9.3%2B1.21.1-neoforge.jar"
-hash-format = "sha512"
-hash = "ba2e2d5dcccf530dc33e095e012991715d88ba01cfc1aa4f717cd26865a99d80cefbfc72c6ec19a0f1166ff0f88d1d009ae25c2712c1aa94039a2ae7b1bbde1f"
+hash-format = "sha256"
+hash = "1240ca448866768b6ff2ec663d59e5b84cb7a2eeb619e5e6fba4311addd9e154"
 
 [update]
 [update.modrinth]

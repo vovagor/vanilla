@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/UrO57mt2/versions/5KfyUCnF/Delightful-plaques-v1.1%20%281.21%29.zip"
-hash-format = "sha512"
-hash = "47414d0388ba9de93033cc40516b24f726c253c5f7a54ec2560c825a1b8e431cad4bff0a003d2b9d9f40607f3c09aea54557a2f39e160da4a927d0c0d3836fe1"
+hash-format = "sha256"
+hash = "5bcd654e9c33daadd17b73b7c416c41447b0ffb7d76c6c25b9cee2884f891f39"
 
 [update]
 [update.modrinth]

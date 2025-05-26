@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/mEEGbEIu/versions/NPR0EFtY/pandalib-neoforge-mc1.21-0.5.2-SNAPSHOT.jar"
-hash-format = "sha512"
-hash = "8a6a36cb2fad7ee1230f3b3745d73e5b66fee34710eba7a7152c3a718e012a6d91d707852ee59f51ca405462945c050e07d5ad4ba25424779c12f895f92dfef4"
+hash-format = "sha256"
+hash = "9feb49ed0bea1ff068bdb323993227524e4e253c7fae1d820f4caa86811e7617"
 
 [update]
 [update.modrinth]

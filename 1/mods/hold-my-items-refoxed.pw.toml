@@ -3,8 +3,8 @@ filename = "holdmyitems-1.21.1-NeoForge-1.0.4.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "d2576a6b7dec9120e07f745773bec5c11cfdcf64"
+hash-format = "sha256"
+hash = "06730c32c42e00d527b4b8db246f94da3ae4e2cfa949a78d3c3d461941ea73fc"
 mode = "metadata:curseforge"
 
 [update]

@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/eBzFuVTM/versions/kSsOJvBW/waterframes-NEOFORGE-mc1.21.1-v2.1.14.jar"
-hash-format = "sha512"
-hash = "202542725dfa42476273b26203cb7444947973396672e5f89dbe11c3065b25729db3c3be4dfbe33ba89a0c35d3d570cde035c366cd1c421b61750add50f36364"
+hash-format = "sha256"
+hash = "e311f2bf537fdb3babfef78a03591133cbfdf4d9f6ece7ed6ec85479a68976db"
 
 [update]
 [update.modrinth]

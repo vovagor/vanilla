@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/WJLLirmC/versions/iEwELpQ7/travelerscompass-1.21-3.1.0-neoforge.jar"
-hash-format = "sha512"
-hash = "10c2d825abba0f4533a20c3d01030db4bcef97224d2ea9db6ef2bab99b2f7dc94c89d7c4a8c051351640f3ea5db4ede889dc01ac66f5ae97837cb91427bd38a9"
+hash-format = "sha256"
+hash = "6a8ba09373c517412530e2d4b9e9f6bf76115baf21ce8a230e13cee12a926f90"
 
 [update]
 [update.modrinth]

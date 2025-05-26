@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/dv5SFk5T/versions/C6DOKhZQ/weather2-neoforge-1.21.0-2.8.3.jar"
-hash-format = "sha512"
-hash = "76352b1843688d86cdbd30f82a4085ad6f5f622b52fc65ad4b941ac13b32dc753b0f5e563806beb54e4b5f5e77f04ef33c567c8cd4fddb1f2d7d2f573189dd27"
+hash-format = "sha256"
+hash = "25ee406f195413be5d5c3faa9cc2f4fa2c348cdd54ced227cd6f6074429d1454"
 
 [update]
 [update.modrinth]

@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/RH2KUdKJ/versions/b1bY4oKd/OctoLib-NEOFORGE-0.5.0.1.jar"
-hash-format = "sha512"
-hash = "65abdc523833288dc3b14429befe0c68a188572d01049671aa9d186757bce447015852b4898ddd656959d91d903d508767ec07bab070ba2767bb6a66b058c756"
+hash-format = "sha256"
+hash = "811aa793b346e9ddc01c91ce992e353f34b9054b0295d8c818a6ba23a19ba312"
 
 [update]
 [update.modrinth]

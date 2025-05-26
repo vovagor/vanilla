@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/sNJAIjUm/versions/fXR8JPPC/jewelry-2.0.10%2B1.21.1.jar"
-hash-format = "sha512"
-hash = "b6b62b4c0d1db6e7d71fca308ab7c15f49d6ce0f91faac7444bf1d47e76653b838d8e172849cc6542221ea790930328d9161c65bf35fd25ad7d1d3bfe86c0d82"
+hash-format = "sha256"
+hash = "80a48c8502b5610125a2898160ea8b7617d191c8c64a9a9d987608889726b168"
 
 [update]
 [update.modrinth]

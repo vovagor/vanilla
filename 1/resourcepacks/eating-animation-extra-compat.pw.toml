@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/EkpTpjMh/versions/a9R0hAQs/Eat%20Animations%20Extra%20Compat.zip"
-hash-format = "sha512"
-hash = "1aeb6249bdec24181c085f78bb2f1b1098e0ae0e79aabe3ce9d2c8e56386c11b1ef7239d9f78af4880839844f0b29160b98574b755d98ea1dbf225de82d3ebb4"
+hash-format = "sha256"
+hash = "b9973222cc031a0f3e43d5992936b2e9fb068ffae894ff4a3874532c57b75d72"
 
 [update]
 [update.modrinth]

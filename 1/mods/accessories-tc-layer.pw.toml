@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/TkWgV1AW/versions/ruFhKLpu/accessories_tclayer-3.10.0-beta.28%2B1.21.1.jar"
-hash-format = "sha512"
-hash = "9383d302bea4f3ca856877412e1704a25dc45c70980930d67a339e25a51bf51de41406e691f98737eaf33b78c23c747be1cc89bc0be8a487926c1524a1520b25"
+hash-format = "sha256"
+hash = "15ba2c38ab54f8be60f205c60f81f6cfa5ee015813e60759e6819c2ad8be9436"
 
 [update]
 [update.modrinth]

@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/x5iQ3NM5/versions/66oU38L0/toms_trading_network-1.21-0.3.3.jar"
-hash-format = "sha512"
-hash = "ef230cc0f1dd2365fa6908d4fb0461591b201feda785a09369650aec15c2b81d222097244379651a18fe59ce46f96df351725c2f26c9f5932e1f51782d331f20"
+hash-format = "sha256"
+hash = "1bfce1ac9036cd45668c473afee63f7548b64b31430125783c7b16dca5cb7cce"
 
 [update]
 [update.modrinth]

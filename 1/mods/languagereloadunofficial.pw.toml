@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/4zpN0syd/versions/qSdV3sEV/languagereload-neoforge-1.21.1-1.0.2.jar"
-hash-format = "sha512"
-hash = "749f5e5e465cb0974401632c7d94b86f3512f66afa4fb8bc7278f67a16a01fc9209e1d7e2ea0e9db3390505b4bfcc1cc00ca02b5eaae42b1fddd2f33aaae4a52"
+hash-format = "sha256"
+hash = "453df10dca8534ec9bc4d6707a25f21f738720f2360ba4ae3a9c52a570142c9e"
 
 [update]
 [update.modrinth]

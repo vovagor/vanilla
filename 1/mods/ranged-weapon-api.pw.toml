@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/AqaIIO6D/versions/IOUiOKCu/ranged_weapon_api-2.1.1%2B1.21.1.jar"
-hash-format = "sha512"
-hash = "aa2f99074c5e9f073843479c13186726e5478d20108da5be568382de9eefc398bc4cd21dcb3f6b890e27960d5f3ba939b847e3bb7739d8ff8fabe8914d1129d5"
+hash-format = "sha256"
+hash = "1a7de05e670c64e1498fe1d1e9b42c1303812ece907f9279006b3b34bdc1af63"
 
 [update]
 [update.modrinth]
