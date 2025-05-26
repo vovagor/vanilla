@@ -1,0 +1,7 @@
+name = "physmod"
+filename = "physmod.jar"
+
+[download]
+url = "https://www.dropbox.com/scl/fi/vb8xma3zr1jxt69g8iazq/physmod.jar"
+hash-format = "sha256"
+hash = "17bf1d8d1f639d046ab6118e5b116d0f172a12a493273bf051ca5d200acb9256"

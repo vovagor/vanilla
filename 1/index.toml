@@ -571,6 +571,11 @@ hash = "b11c3e96802d7f7642a49281a65056b73017f770fccc6c048f46e158684e636d"
 metafile = true
 
 [[files]]
+file = "mods/physmod.pw.toml"
+hash = "bd9c78b8f8aefa4c3dc0269ae82d09b856bb790c905131dfa33fca78aa1557bc"
+metafile = true
+
+[[files]]
 file = "mods/prism-lib.pw.toml"
 hash = "38627583b088f1d482c74171ff1e805dc04b1a821ab2caf4febc7d5afebf4e65"
 metafile = true
